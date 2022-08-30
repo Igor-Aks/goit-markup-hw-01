@@ -1,0 +1,24 @@
+/* колір основного тексту #212121; */
+/* вторинний колір тексту #757575; */
+/* білий колір тексту #FFFFFF; */
+/* акцент #2196F3; */
+/* фон хедера background: #FFFFFF; */
+/* колір фона "блок герой" background: #2F303A; */
+
+body {
+	background-color: #F5F5F5;
+	color: #212121;
+}
+span {
+	color: #2196F3;
+}
+ul {
+	list-style: none;
+}
+
+/* Site nav */
+.site-nav a {
+	color: #2196F3;
+}
+
+
